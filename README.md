@@ -1,1 +1,1 @@
-# hands-on-lab-git
+Branching and merging in github hands on lab IBM
